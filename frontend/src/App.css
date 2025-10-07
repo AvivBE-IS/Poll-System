@@ -1,0 +1,38 @@
+.App {
+  min-height: 100vh;
+  background-color: #f5f5f5;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.App-header nav {
+  margin-top: 10px;
+}
+
+.App-header nav a {
+  color: #61dafb;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.App-header nav a:hover {
+  background-color: rgba(97, 218, 251, 0.1);
+}
+
+.App-main {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
